@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f984764-968d-4ddc-868b-04ab70aa905e" name="Default" comment="" />
+    <list default="true" id="8f984764-968d-4ddc-868b-04ab70aa905e" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="StockDataCollector.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -125,7 +127,7 @@
       <file leaf-file-name="StockWatchList.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/howey/stockdatacollector/DataCollector/StockWatchList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.06354515">
+            <state vertical-scroll-proportion="0.0652921">
               <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
               <folding />
             </state>
@@ -165,7 +167,6 @@
         <option value="$PROJECT_DIR$/src/com/howey/stockdatacollector/worker/DataCollector.java" />
         <option value="$PROJECT_DIR$/src/com/howey/stockdatacollector/DataCollector/HistoryDataCollector.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/howey/stockdatacollector/StockWatchList.json" />
-        <option value="$PROJECT_DIR$/src/main/java/com/howey/stockdatacollector/DataCollector/StockWatchList.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/howey/stockdatacollector/DataCollector/HistoryDataCollector.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/howey/stockdatacollector/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/howey/stockdatacollector/StockDataProviderYahoo.java" />
@@ -173,6 +174,7 @@
         <option value="$PROJECT_DIR$/src/main/test/StockDataProviderYahooTest.java" />
         <option value="$PROJECT_DIR$/src/test/com/howey/stockdatacollector/tests/StockDataProviderYahooTest.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/howey/stockdatacollector/DataCollector/StockWatchList.java" />
       </list>
     </option>
   </component>
@@ -487,7 +489,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Maven.Main">
+  <component name="RunManager" selected="TestNG.StockDataProviderYahooTest">
     <configuration default="false" name="StockDataProviderYahooTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -927,15 +929,15 @@
       <workItem from="1438383730382" duration="30638000" />
       <workItem from="1442909245111" duration="1175000" />
       <workItem from="1442914538629" duration="14000" />
-      <workItem from="1442914574522" duration="41000" />
+      <workItem from="1442914574522" duration="177000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="StockDataProviderYahooTest - 2015.08.10 at 22h 45m 18s.xml">
+    <history-entry file="StockDataProviderYahooTest - 2015.08.10 at 23h 35m 58s.xml">
       <configuration name="StockDataProviderYahooTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="StockDataProviderYahooTest - 2015.08.10 at 23h 35m 58s.xml">
+    <history-entry file="StockDataProviderYahooTest - 2015.09.22 at 02h 39m 06s.xml">
       <configuration name="StockDataProviderYahooTest" configurationId="TestNG" />
     </history-entry>
     <history-entry file="StockDataProviderYahooTest_(1) - 2015.08.10 at 23h 13m 45s.xml">
@@ -964,7 +966,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="101594000" />
+    <option name="totallyTimeSpent" value="101730000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -983,9 +985,10 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32929516" sideWeight="0.49569893" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32580644" sideWeight="0.46638656" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32580644" sideWeight="0.53361344" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34301075" sideWeight="0.5315126" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34301075" sideWeight="0.46848738" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32929516" sideWeight="0.49569893" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21481092" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -994,15 +997,14 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4489796" sideWeight="0.49369746" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Kotlin Bytecode" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4489796" sideWeight="0.49369746" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34361234" sideWeight="0.4704301" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32975295" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -1492,7 +1494,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/howey/stockdatacollector/DataCollector/StockWatchList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.06354515">
+        <state vertical-scroll-proportion="0.0652921">
           <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
           <folding />
         </state>
