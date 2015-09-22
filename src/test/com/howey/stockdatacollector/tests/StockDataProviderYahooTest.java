@@ -51,7 +51,7 @@ public class StockDataProviderYahooTest {
         Date endTime=dateFormater.parse("1991-02-01");
         List<StockData> dataList=sdp.getData(symbols, startTime, endTime, "Historical-Day");
 
-        assertNotEquals(0,dataList.size());
+        assertNotSame(0,dataList.size());
 
     }
 
